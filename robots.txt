@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://otn-brand.vercel.app/sitemap.xml
